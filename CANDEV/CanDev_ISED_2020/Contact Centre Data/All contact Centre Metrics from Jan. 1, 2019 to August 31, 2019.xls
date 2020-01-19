@@ -1,0 +1,881 @@
+<table border=1 width=100%>
+<tr><td colspan=3>All Inquiries </td></tr>
+<tr><td colspan=3>Start as of: 2019/01/01 </td></tr>
+<tr><td colspan=3>End as of: 2019/08/31 </td></tr>
+<tr><td colspan=3>Total enquiries: 25593 </td></tr>
+<tr><td colspan=3> </td></tr>
+<tr><td><b>Report Data</b></td><td><b>#</b></td><td><b>%</b></td></tr>
+<tr><td><b>Returning Client</b></td><td></td><td></td></tr>
+<tr><td>1</td><td>25359</td><td>99.09%</td></tr>
+<tr><td>2</td><td>166</td><td>0.65%</td></tr>
+<tr><td>3</td><td>34</td><td>0.13%</td></tr>
+<tr><td>4</td><td>11</td><td>0.04%</td></tr>
+<tr><td>5</td><td>14</td><td>0.05%</td></tr>
+<tr><td>n/a</td><td>9</td><td>0.04%</td></tr>
+<tr><td><b>Total - Returning Client</b></td><td><b>25593</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Method of Contact</b></td><td></td><td></td></tr>
+<tr><td>chatbot</td><td>18</td><td>0.07%</td></tr>
+<tr><td>email</td><td>4122</td><td>16.11%</td></tr>
+<tr><td>facebook</td><td>305</td><td>1.19%</td></tr>
+<tr><td>fax</td><td>15</td><td>0.06%</td></tr>
+<tr><td>mail</td><td>8</td><td>0.03%</td></tr>
+<tr><td>telephone</td><td>17799</td><td>69.55%</td></tr>
+<tr><td>tty</td><td>10</td><td>0.04%</td></tr>
+<tr><td>twitter</td><td>85</td><td>0.33%</td></tr>
+<tr><td>voice mail</td><td>1092</td><td>4.27%</td></tr>
+<tr><td>web chat</td><td>2139</td><td>8.36%</td></tr>
+<tr><td><b>Total - Method of Contact</b></td><td><b>25593</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Resolution</b></td><td></td><td></td></tr>
+<tr><td>completed</td><td>14467</td><td>54.04%</td></tr>
+<tr><td>media relations- deadline met</td><td>141</td><td>0.53%</td></tr>
+<tr><td>media relations - deadline not met</td><td>9</td><td>0.03%</td></tr>
+<tr><td>partial resolution + external</td><td>635</td><td>2.37%</td></tr>
+<tr><td>partial resolution + internal</td><td>2082</td><td>7.78%</td></tr>
+<tr><td>referral (external)</td><td>1476</td><td>5.51%</td></tr>
+<tr><td>referral (internal)</td><td>7440</td><td>27.79%</td></tr>
+<tr><td>survey refused</td><td>90</td><td>0.34%</td></tr>
+<tr><td>survey sent – subscribed</td><td>373</td><td>1.39%</td></tr>
+<tr><td>survey sent – unsubscribed</td><td>9</td><td>0.03%</td></tr>
+<tr><td>tip submitted</td><td>47</td><td>0.18%</td></tr>
+<tr><td><b>Total - Resolution</b></td><td><b>26769</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Topic</b></td><td></td><td></td></tr>
+<tr><td>bankruptcy</td><td>1398</td><td>5.20%</td></tr>
+<tr><td>consumer affairs</td><td>971</td><td>3.61%</td></tr>
+<tr><td>corporate content</td><td>283</td><td>1.05%</td></tr>
+<tr><td>corporations</td><td>2754</td><td>10.24%</td></tr>
+<tr><td>dbd cannot get the list of address books...</td><td>2</td><td>0.01%</td></tr>
+<tr><td>financing</td><td>1340</td><td>4.98%</td></tr>
+<tr><td>imports exports and investment</td><td>267</td><td>0.99%</td></tr>
+<tr><td>industries and business</td><td>1278</td><td>4.75%</td></tr>
+<tr><td>industries and business </td><td>1</td><td>0.00%</td></tr>
+<tr><td>innovation</td><td>1688</td><td>6.28%</td></tr>
+<tr><td>intellectual property and copyright</td><td>1802</td><td>6.70%</td></tr>
+<tr><td>internet radio and wireless</td><td>11113</td><td>41.33%</td></tr>
+<tr><td>other</td><td>1757</td><td>6.53%</td></tr>
+<tr><td>policies and research</td><td>17</td><td>0.06%</td></tr>
+<tr><td>science and technology</td><td>51</td><td>0.19%</td></tr>
+<tr><td>statistics and research</td><td>253</td><td>0.94%</td></tr>
+<tr><td>unknown</td><td>1669</td><td>6.21%</td></tr>
+<tr><td>weights and measures</td><td>243</td><td>0.90%</td></tr>
+<tr><td><b>Total - Topic</b></td><td><b>26887</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Inquiry Type</b></td><td></td><td></td></tr>
+<tr><td>advertising/marketing</td><td>13</td><td>0.04%</td></tr>
+<tr><td>comment</td><td>111</td><td>0.33%</td></tr>
+<tr><td>complaint</td><td>119</td><td>0.35%</td></tr>
+<tr><td>compliment</td><td>30</td><td>0.09%</td></tr>
+<tr><td>hang up</td><td>457</td><td>1.36%</td></tr>
+<tr><td>how to</td><td>13</td><td>0.04%</td></tr>
+<tr><td>media relations </td><td>170</td><td>0.51%</td></tr>
+<tr><td>misdirected to industry canada</td><td>71</td><td>0.21%</td></tr>
+<tr><td>obtain official document</td><td>191</td><td>0.57%</td></tr>
+<tr><td>other</td><td>515</td><td>1.53%</td></tr>
+<tr><td>payment of fees</td><td>96</td><td>0.29%</td></tr>
+<tr><td>problem (non-technical)</td><td>2049</td><td>6.11%</td></tr>
+<tr><td>problem non-technical (ceb registration)</td><td>8</td><td>0.02%</td></tr>
+<tr><td>public engagement</td><td>9</td><td>0.03%</td></tr>
+<tr><td>request for publication</td><td>223</td><td>0.66%</td></tr>
+<tr><td>requires contact information</td><td>1120</td><td>3.34%</td></tr>
+<tr><td>requires expert informatino</td><td>1</td><td>0.00%</td></tr>
+<tr><td>requires expert information</td><td>11692</td><td>34.84%</td></tr>
+<tr><td>requires information on a procedure</td><td>11152</td><td>33.23%</td></tr>
+<tr><td>requires navigational aid</td><td>1714</td><td>5.11%</td></tr>
+<tr><td>search for employment</td><td>198</td><td>0.59%</td></tr>
+<tr><td>status update</td><td>1972</td><td>5.88%</td></tr>
+<tr><td>technical problem</td><td>279</td><td>0.83%</td></tr>
+<tr><td>unknown</td><td>1353</td><td>4.03%</td></tr>
+<tr><td><b>Total - Inquiry Type</b></td><td><b>33556</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Organization</b></td><td></td><td></td></tr>
+<tr><td>enterprises</td><td>240</td><td>0.88%</td></tr>
+<tr><td>federal government</td><td>1640</td><td>6.04%</td></tr>
+<tr><td>innovation, science and economic develop...</td><td>22557</td><td>83.07%</td></tr>
+<tr><td>not applicable</td><td>1768</td><td>6.51%</td></tr>
+<tr><td>other government</td><td>35</td><td>0.13%</td></tr>
+<tr><td>provincial government</td><td>913</td><td>3.36%</td></tr>
+<tr><td><b>Total - Organization</b></td><td><b>27153</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Program</b></td><td></td><td></td></tr>
+<tr><td>--- ENTERPRISES ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>---enterprises---</td><td>2</td><td>0.01%</td></tr>
+<tr><td>private enterprise</td><td>227</td><td>0.79%</td></tr>
+<tr><td>--- FEDERAL GOVERNMENT ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>agriculture and agri-food canada (aafc)</td><td>12</td><td>0.04%</td></tr>
+<tr><td>business development bank of canada (bdc...</td><td>24</td><td>0.08%</td></tr>
+<tr><td>canada border services agency (cbsa)</td><td>109</td><td>0.38%</td></tr>
+<tr><td>canada revenue agency (cra)</td><td>209</td><td>0.72%</td></tr>
+<tr><td>canadian anti-fraud centre (cafc)</td><td>102</td><td>0.35%</td></tr>
+<tr><td>canadian food inspection agency (cfia)</td><td>15</td><td>0.05%</td></tr>
+<tr><td>canadian heritage (ch)</td><td>10</td><td>0.03%</td></tr>
+<tr><td>canadian northern economic development a...</td><td>1</td><td>0.00%</td></tr>
+<tr><td>canadian radio-television telecommunicat...</td><td>98</td><td>0.34%</td></tr>
+<tr><td>department of justice</td><td>2</td><td>0.01%</td></tr>
+<tr><td>employment and social development canada...</td><td>64</td><td>0.22%</td></tr>
+<tr><td>environment and climate change canada</td><td>15</td><td>0.05%</td></tr>
+<tr><td>federal economic development agency for ...</td><td>7</td><td>0.02%</td></tr>
+<tr><td>finance canada</td><td>5</td><td>0.02%</td></tr>
+<tr><td>financial consumer agency of canada (fca...</td><td>22</td><td>0.08%</td></tr>
+<tr><td>fisheries and oceans canada (dfo)</td><td>11</td><td>0.04%</td></tr>
+<tr><td>global affairs canada</td><td>182</td><td>0.63%</td></tr>
+<tr><td>health canada (hc)</td><td>69</td><td>0.24%</td></tr>
+<tr><td>immigration, refugees and citizenship ca...</td><td>337</td><td>1.17%</td></tr>
+<tr><td>indigenous and northern affairs canada</td><td>11</td><td>0.04%</td></tr>
+<tr><td>library and archives canada</td><td>6</td><td>0.02%</td></tr>
+<tr><td>national defence and the canadian forces...</td><td>8</td><td>0.03%</td></tr>
+<tr><td>national research council canada (nrc)</td><td>18</td><td>0.06%</td></tr>
+<tr><td>natural resources canada (nrcan)</td><td>12</td><td>0.04%</td></tr>
+<tr><td>office of the privacy commissioner of ca...</td><td>11</td><td>0.04%</td></tr>
+<tr><td>office of the superintendent of financia...</td><td>9</td><td>0.03%</td></tr>
+<tr><td>other</td><td>76</td><td>0.26%</td></tr>
+<tr><td>prime minister of canada (pm)</td><td>5</td><td>0.02%</td></tr>
+<tr><td>public health agency of canada (phac)</td><td>1</td><td>0.00%</td></tr>
+<tr><td>public safety canada</td><td>2</td><td>0.01%</td></tr>
+<tr><td>public service commission of canada (psc...</td><td>37</td><td>0.13%</td></tr>
+<tr><td>public services and procurement canada</td><td>118</td><td>0.41%</td></tr>
+<tr><td>royal canadian mounted police (rcmp)</td><td>13</td><td>0.05%</td></tr>
+<tr><td>service canada</td><td>68</td><td>0.24%</td></tr>
+<tr><td>standards council of canada (scc)</td><td>2</td><td>0.01%</td></tr>
+<tr><td>statistics canada (statcan)</td><td>161</td><td>0.56%</td></tr>
+<tr><td>transport canada (tc)</td><td>32</td><td>0.11%</td></tr>
+<tr><td>--- INNOVATION, SCIENCE AND ECONOMIC DEVELOP... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>---industry canada---</td><td>1</td><td>0.00%</td></tr>
+<tr><td>accessible technology program</td><td>79</td><td>0.27%</td></tr>
+<tr><td>broadband canada</td><td>7</td><td>0.02%</td></tr>
+<tr><td>business assistant (chatbot)</td><td>10</td><td>0.03%</td></tr>
+<tr><td>canada-china year of tourism 2018</td><td>3</td><td>0.01%</td></tr>
+<tr><td>canada business mobile app</td><td>41</td><td>0.14%</td></tr>
+<tr><td>canada business network</td><td>423</td><td>1.47%</td></tr>
+<tr><td>canada small business financing program ...</td><td>152</td><td>0.53%</td></tr>
+<tr><td>canadian company capabilities (ccc)</td><td>43</td><td>0.15%</td></tr>
+<tr><td>canadian importers database (cid)</td><td>66</td><td>0.23%</td></tr>
+<tr><td>canadian industry statistics (cis)</td><td>103</td><td>0.36%</td></tr>
+<tr><td>canadian intellectual property office (c...</td><td>1722</td><td>5.97%</td></tr>
+<tr><td>chief information office sector (cio)</td><td>11</td><td>0.04%</td></tr>
+<tr><td>clean growth hub</td><td>5</td><td>0.02%</td></tr>
+<tr><td>communications and marketing branch (cmb...</td><td>294</td><td>1.02%</td></tr>
+<tr><td>communications research centre canada (c...</td><td>11</td><td>0.04%</td></tr>
+<tr><td>competition bureau canada</td><td>505</td><td>1.75%</td></tr>
+<tr><td>connecting canadians</td><td>69</td><td>0.24%</td></tr>
+<tr><td>connecting families</td><td>8257</td><td>28.64%</td></tr>
+<tr><td>consumer affairs (oca)</td><td>550</td><td>1.91%</td></tr>
+<tr><td>copyright consultations</td><td>1</td><td>0.00%</td></tr>
+<tr><td>corporate management sector (cms)</td><td>73</td><td>0.25%</td></tr>
+<tr><td>corporate social responsibility</td><td>5</td><td>0.02%</td></tr>
+<tr><td>corporations canada (cc)</td><td>2576</td><td>8.93%</td></tr>
+<tr><td>cyber authentication</td><td>7</td><td>0.02%</td></tr>
+<tr><td>cybersecure canada</td><td>162</td><td>0.56%</td></tr>
+<tr><td>digital literacy exchange program</td><td>19</td><td>0.07%</td></tr>
+<tr><td>digital skills for youth program</td><td>63</td><td>0.22%</td></tr>
+<tr><td>e-service to business</td><td>1</td><td>0.00%</td></tr>
+<tr><td>economic and market research stats</td><td>3</td><td>0.01%</td></tr>
+<tr><td>environmental and sustainability</td><td>3</td><td>0.01%</td></tr>
+<tr><td>fednor</td><td>10</td><td>0.03%</td></tr>
+<tr><td>fightspam</td><td>77</td><td>0.27%</td></tr>
+<tr><td>financial performance data</td><td>75</td><td>0.26%</td></tr>
+<tr><td>ic registration</td><td>783</td><td>2.72%</td></tr>
+<tr><td>indigenous business directory</td><td>84</td><td>0.29%</td></tr>
+<tr><td>industrial technologies office (ito)</td><td>5</td><td>0.02%</td></tr>
+<tr><td>industry by sector</td><td>50</td><td>0.17%</td></tr>
+<tr><td>innovation advisors</td><td>299</td><td>1.04%</td></tr>
+<tr><td>innovation canada</td><td>32</td><td>0.11%</td></tr>
+<tr><td>innovation canada platform</td><td>784</td><td>2.72%</td></tr>
+<tr><td>innovation lab</td><td>1</td><td>0.00%</td></tr>
+<tr><td>innovation superclusters initiative</td><td>47</td><td>0.16%</td></tr>
+<tr><td>innovation, science and economic develop...</td><td>11</td><td>0.04%</td></tr>
+<tr><td>innovative solutions canada</td><td>444</td><td>1.54%</td></tr>
+<tr><td>intellectual property strategy</td><td>23</td><td>0.08%</td></tr>
+<tr><td>investment canada act</td><td>23</td><td>0.08%</td></tr>
+<tr><td>ised web</td><td>6</td><td>0.02%</td></tr>
+<tr><td>measurement canada (mc)</td><td>257</td><td>0.89%</td></tr>
+<tr><td>national digital and data consultations</td><td>6</td><td>0.02%</td></tr>
+<tr><td>office of the corporate secretary (ocs)</td><td>44</td><td>0.15%</td></tr>
+<tr><td>office of the superintendent of bankrupt...</td><td>1382</td><td>4.79%</td></tr>
+<tr><td>other</td><td>402</td><td>1.39%</td></tr>
+<tr><td>small business internship program </td><td>4</td><td>0.01%</td></tr>
+<tr><td>small business research and policy</td><td>16</td><td>0.06%</td></tr>
+<tr><td>small business, tourism and marketplace ...</td><td>431</td><td>1.49%</td></tr>
+<tr><td>spectrum management and telecommunicatio...</td><td>2492</td><td>8.64%</td></tr>
+<tr><td>strategic innovation fund</td><td>562</td><td>1.95%</td></tr>
+<tr><td>strategic policy sector (sps)</td><td>1</td><td>0.00%</td></tr>
+<tr><td>technology roadmaps</td><td>1</td><td>0.00%</td></tr>
+<tr><td>the department</td><td>295</td><td>1.02%</td></tr>
+<tr><td>trade data online (tdo)</td><td>67</td><td>0.23%</td></tr>
+<tr><td>universal broadband fund</td><td>9</td><td>0.03%</td></tr>
+<tr><td>unknown</td><td>120</td><td>0.42%</td></tr>
+<tr><td>venture capital catalyst initiative</td><td>10</td><td>0.03%</td></tr>
+<tr><td>wiki</td><td>1</td><td>0.00%</td></tr>
+<tr><td>youth initiatives</td><td>2</td><td>0.01%</td></tr>
+<tr><td>--- NOT APPLICABLE ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>--not applicable--</td><td>4</td><td>0.01%</td></tr>
+<tr><td>not applicable</td><td>1762</td><td>6.11%</td></tr>
+<tr><td>--- OTHER GOVERNMENT ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>foreign government</td><td>14</td><td>0.05%</td></tr>
+<tr><td>local government</td><td>16</td><td>0.06%</td></tr>
+<tr><td>--- PROVINCIAL GOVERNMENT ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>---provincial government---</td><td>5</td><td>0.02%</td></tr>
+<tr><td>alberta</td><td>81</td><td>0.28%</td></tr>
+<tr><td>british columbia</td><td>80</td><td>0.28%</td></tr>
+<tr><td>manitoba</td><td>16</td><td>0.06%</td></tr>
+<tr><td>new brunswick</td><td>11</td><td>0.04%</td></tr>
+<tr><td>newfoundland and labarador</td><td>4</td><td>0.01%</td></tr>
+<tr><td>northwest territories</td><td>1</td><td>0.00%</td></tr>
+<tr><td>not applicable</td><td>20</td><td>0.07%</td></tr>
+<tr><td>nova scotia</td><td>13</td><td>0.05%</td></tr>
+<tr><td>nunavut</td><td>4</td><td>0.01%</td></tr>
+<tr><td>ontario</td><td>401</td><td>1.39%</td></tr>
+<tr><td>prince edward island</td><td>2</td><td>0.01%</td></tr>
+<tr><td>quebec</td><td>143</td><td>0.50%</td></tr>
+<tr><td>saskatchewan</td><td>21</td><td>0.07%</td></tr>
+<tr><td>yukon</td><td>2</td><td>0.01%</td></tr>
+<tr><td><b>Total - Program</b></td><td><b>28834</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Program Area</b></td><td></td><td></td></tr>
+<tr><td>--- CANADA BUSINESS NETWORK ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>bizpal</td><td>42</td><td>0.15%</td></tr>
+<tr><td>business planning</td><td>23</td><td>0.08%</td></tr>
+<tr><td>grants and finances</td><td>55</td><td>0.20%</td></tr>
+<tr><td>growth and innovation</td><td>22</td><td>0.08%</td></tr>
+<tr><td>market research and statistics</td><td>5</td><td>0.02%</td></tr>
+<tr><td>other</td><td>235</td><td>0.85%</td></tr>
+<tr><td>starting a business</td><td>128</td><td>0.46%</td></tr>
+<tr><td>--- CANADIAN COMPANY CAPABILITIES (CCC) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>ccc removal comment</td><td>9</td><td>0.03%</td></tr>
+<tr><td>change of data provider</td><td>1</td><td>0.00%</td></tr>
+<tr><td>company registration</td><td>2</td><td>0.01%</td></tr>
+<tr><td>delete company profile</td><td>3</td><td>0.01%</td></tr>
+<tr><td>other</td><td>12</td><td>0.04%</td></tr>
+<tr><td>search company directory</td><td>12</td><td>0.04%</td></tr>
+<tr><td>update company profile</td><td>6</td><td>0.02%</td></tr>
+<tr><td>--- CANADIAN INTELLECTUAL PROPERTY OFFICE (C... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>copyrights</td><td>255</td><td>0.92%</td></tr>
+<tr><td>industrial designs</td><td>20</td><td>0.07%</td></tr>
+<tr><td>other</td><td>115</td><td>0.41%</td></tr>
+<tr><td>patents</td><td>407</td><td>1.46%</td></tr>
+<tr><td>trade-marks</td><td>945</td><td>3.40%</td></tr>
+<tr><td>webtech</td><td>1</td><td>0.00%</td></tr>
+<tr><td>--- CANADIAN RADIO-TELEVISION TELECOMMUNICAT... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>commissioner for complaints for telecomm...</td><td>41</td><td>0.15%</td></tr>
+<tr><td>other</td><td>41</td><td>0.15%</td></tr>
+<tr><td>wireless code</td><td>3</td><td>0.01%</td></tr>
+<tr><td>--- COMMUNICATIONS AND MARKETING BRANCH (CMB... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>about us</td><td>1</td><td>0.00%</td></tr>
+<tr><td>advertising / communication</td><td>13</td><td>0.05%</td></tr>
+<tr><td>crown copyright clearance</td><td>80</td><td>0.29%</td></tr>
+<tr><td>ised employee information line</td><td>22</td><td>0.08%</td></tr>
+<tr><td>ised search</td><td>1</td><td>0.00%</td></tr>
+<tr><td>media</td><td>8</td><td>0.03%</td></tr>
+<tr><td>media relations</td><td>78</td><td>0.28%</td></tr>
+<tr><td>media relations - follow-up</td><td>1</td><td>0.00%</td></tr>
+<tr><td>media relations - interview</td><td>3</td><td>0.01%</td></tr>
+<tr><td>media relations - media call</td><td>110</td><td>0.40%</td></tr>
+<tr><td>media relations - tech briefing</td><td>2</td><td>0.01%</td></tr>
+<tr><td>other</td><td>45</td><td>0.16%</td></tr>
+<tr><td>publication request</td><td>22</td><td>0.08%</td></tr>
+<tr><td>--- COMPETITION BUREAU CANADA ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>abuse of market power</td><td>24</td><td>0.09%</td></tr>
+<tr><td>ca number database</td><td>20</td><td>0.07%</td></tr>
+<tr><td>gas prices</td><td>9</td><td>0.03%</td></tr>
+<tr><td>investigating cartels</td><td>3</td><td>0.01%</td></tr>
+<tr><td>labelling corner</td><td>62</td><td>0.22%</td></tr>
+<tr><td>misleading advertisement</td><td>35</td><td>0.13%</td></tr>
+<tr><td>other</td><td>310</td><td>1.12%</td></tr>
+<tr><td>price gap</td><td>6</td><td>0.02%</td></tr>
+<tr><td>--- CONNECTING FAMILIES ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>billing</td><td>67</td><td>0.24%</td></tr>
+<tr><td>code status (reserved/used code)</td><td>219</td><td>0.79%</td></tr>
+<tr><td>comment - isp</td><td>273</td><td>0.98%</td></tr>
+<tr><td>computer order</td><td>2401</td><td>8.64%</td></tr>
+<tr><td>connecting families survey</td><td>12</td><td>0.04%</td></tr>
+<tr><td>hardware issue</td><td>364</td><td>1.31%</td></tr>
+<tr><td>legitimacy</td><td>115</td><td>0.41%</td></tr>
+<tr><td>lost code</td><td>606</td><td>2.18%</td></tr>
+<tr><td>no isp</td><td>128</td><td>0.46%</td></tr>
+<tr><td>other</td><td>2358</td><td>8.48%</td></tr>
+<tr><td>slow internet</td><td>41</td><td>0.15%</td></tr>
+<tr><td>--- CONSUMER AFFAIRS (OCA) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>cell phone complaint/comment</td><td>8</td><td>0.03%</td></tr>
+<tr><td>consumer complaint</td><td>307</td><td>1.10%</td></tr>
+<tr><td>credit report and score</td><td>7</td><td>0.03%</td></tr>
+<tr><td>notice and notice regime </td><td>51</td><td>0.18%</td></tr>
+<tr><td>other</td><td>178</td><td>0.64%</td></tr>
+<tr><td>--- CORPORATE MANAGEMENT SECTOR (CMS) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>corporate facilities and security</td><td>2</td><td>0.01%</td></tr>
+<tr><td>corporate finance, systems and procureme...</td><td>2</td><td>0.01%</td></tr>
+<tr><td>human resources</td><td>61</td><td>0.22%</td></tr>
+<tr><td>other</td><td>4</td><td>0.01%</td></tr>
+<tr><td>values and ethics</td><td>4</td><td>0.01%</td></tr>
+<tr><td>--- CORPORATIONS CANADA (CC) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>--corporations canada--</td><td>1</td><td>0.00%</td></tr>
+<tr><td>amend articles of the corporation</td><td>94</td><td>0.34%</td></tr>
+<tr><td>articles of continuance</td><td>18</td><td>0.06%</td></tr>
+<tr><td>business number</td><td>32</td><td>0.12%</td></tr>
+<tr><td>change of registered office address</td><td>163</td><td>0.59%</td></tr>
+<tr><td>changes regarding directors</td><td>147</td><td>0.53%</td></tr>
+<tr><td>cooperative</td><td>3</td><td>0.01%</td></tr>
+<tr><td>corporation key</td><td>100</td><td>0.36%</td></tr>
+<tr><td>dissolve a corporation</td><td>193</td><td>0.69%</td></tr>
+<tr><td>file an annual return</td><td>209</td><td>0.75%</td></tr>
+<tr><td>incorporate a business</td><td>295</td><td>1.06%</td></tr>
+<tr><td>nfp - annual return</td><td>26</td><td>0.09%</td></tr>
+<tr><td>nfp - change of registered office addres...</td><td>14</td><td>0.05%</td></tr>
+<tr><td>nfp - changes regarding directors</td><td>34</td><td>0.12%</td></tr>
+<tr><td>nfp - incorporation</td><td>70</td><td>0.25%</td></tr>
+<tr><td>nfp - transition</td><td>1</td><td>0.00%</td></tr>
+<tr><td>nuans</td><td>201</td><td>0.72%</td></tr>
+<tr><td>obtain corporation documents</td><td>241</td><td>0.87%</td></tr>
+<tr><td>other</td><td>669</td><td>2.41%</td></tr>
+<tr><td>pre-approve a corporate name</td><td>10</td><td>0.04%</td></tr>
+<tr><td>registered intermediary</td><td>12</td><td>0.04%</td></tr>
+<tr><td>revive a corporation</td><td>178</td><td>0.64%</td></tr>
+<tr><td>search for a federal corporation</td><td>217</td><td>0.78%</td></tr>
+<tr><td>--- CYBER AUTHENTIFICATION ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>gckey</td><td>7</td><td>0.03%</td></tr>
+<tr><td>--- CYBERSECURE CANADA ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>certification body</td><td>42</td><td>0.15%</td></tr>
+<tr><td>early adopter enrollment</td><td>90</td><td>0.32%</td></tr>
+<tr><td>other</td><td>24</td><td>0.09%</td></tr>
+<tr><td>--- FIGHTSPAM ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>legislation</td><td>28</td><td>0.10%</td></tr>
+<tr><td>site info</td><td>12</td><td>0.04%</td></tr>
+<tr><td>spam reporting centre</td><td>43</td><td>0.15%</td></tr>
+<tr><td>--- IC REGISTRATION ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>--ic registration--</td><td>5</td><td>0.02%</td></tr>
+<tr><td>password</td><td>567</td><td>2.04%</td></tr>
+<tr><td>registration</td><td>143</td><td>0.51%</td></tr>
+<tr><td>update</td><td>98</td><td>0.35%</td></tr>
+<tr><td>user name</td><td>172</td><td>0.62%</td></tr>
+<tr><td>--- INDIGENOUS BUSINESS DIRECTORY ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>change of data provider</td><td>14</td><td>0.05%</td></tr>
+<tr><td>company registration</td><td>11</td><td>0.04%</td></tr>
+<tr><td>delete company profile</td><td>7</td><td>0.03%</td></tr>
+<tr><td>ised account</td><td>7</td><td>0.03%</td></tr>
+<tr><td>other</td><td>15</td><td>0.05%</td></tr>
+<tr><td>search company directory</td><td>5</td><td>0.02%</td></tr>
+<tr><td>update company profile</td><td>37</td><td>0.13%</td></tr>
+<tr><td>--- INDUSTRIAL TECHNOLOGIES OFFICE (ITO) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>4</td><td>0.01%</td></tr>
+<tr><td>post-secondary institutions strategic in...</td><td>1</td><td>0.00%</td></tr>
+<tr><td>--- INDUSTRY BY SECTOR ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>---industry by sector---</td><td>1</td><td>0.00%</td></tr>
+<tr><td>automotive investment attraction hub</td><td>4</td><td>0.01%</td></tr>
+<tr><td>cluster map</td><td>2</td><td>0.01%</td></tr>
+<tr><td>manufacturing industries</td><td>14</td><td>0.05%</td></tr>
+<tr><td>other</td><td>28</td><td>0.10%</td></tr>
+<tr><td>technologies</td><td>3</td><td>0.01%</td></tr>
+<tr><td>--- INNOVATION ADVISORS ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>innovation advisors - complaint / client...</td><td>3</td><td>0.01%</td></tr>
+<tr><td>innovation advisors - tier 1</td><td>13</td><td>0.05%</td></tr>
+<tr><td>innovation advisors - tier 2</td><td>13</td><td>0.05%</td></tr>
+<tr><td>--- INNOVATION CANADA ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>21</td><td>0.08%</td></tr>
+<tr><td>promotional campaigns (online advertisin...</td><td>2</td><td>0.01%</td></tr>
+<tr><td>promotional campaigns (social media)</td><td>1</td><td>0.00%</td></tr>
+<tr><td>promotional campaigns (television)</td><td>1</td><td>0.00%</td></tr>
+<tr><td>--- INNOVATION CANADA PLATFORM ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>256</td><td>0.92%</td></tr>
+<tr><td>platform help</td><td>134</td><td>0.48%</td></tr>
+<tr><td>--- INTELLECTUAL PROPERTY STRATEGY ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>1</td><td>0.00%</td></tr>
+<tr><td>patent collective pilot program </td><td>18</td><td>0.06%</td></tr>
+<tr><td>--- MEASUREMENT CANADA (MC) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>fairness at the pumps act (fapa)</td><td>2</td><td>0.01%</td></tr>
+<tr><td>gas and electricity</td><td>56</td><td>0.20%</td></tr>
+<tr><td>other</td><td>69</td><td>0.25%</td></tr>
+<tr><td>weights and measures</td><td>130</td><td>0.47%</td></tr>
+<tr><td>--- N/A ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>n/a</td><td>6935</td><td>24.95%</td></tr>
+<tr><td>--- NATIONAL RESEARCH COUNCIL CANADA (NRC) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>concierge</td><td>3</td><td>0.01%</td></tr>
+<tr><td>other</td><td>14</td><td>0.05%</td></tr>
+<tr><td>--- OFFICE OF THE CORPORATE SECRETARY (OCS) ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>atip services</td><td>5</td><td>0.02%</td></tr>
+<tr><td>minister's office</td><td>35</td><td>0.13%</td></tr>
+<tr><td>other</td><td>2</td><td>0.01%</td></tr>
+<tr><td>--- OFFICE OF THE SUPERINTENDENT OF BANKRUPT... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>--office of the superintendent of bankru...</td><td>2</td><td>0.01%</td></tr>
+<tr><td>alternatives to bankruptcy</td><td>14</td><td>0.05%</td></tr>
+<tr><td>bankruptcy and insolvency records</td><td>137</td><td>0.49%</td></tr>
+<tr><td>ccaa records</td><td>4</td><td>0.01%</td></tr>
+<tr><td>declaring bankruptcy</td><td>15</td><td>0.05%</td></tr>
+<tr><td>e-filing - tier 1</td><td>150</td><td>0.54%</td></tr>
+<tr><td>e-filing - tier 2</td><td>746</td><td>2.68%</td></tr>
+<tr><td>other</td><td>312</td><td>1.12%</td></tr>
+<tr><td>trustee registry</td><td>6</td><td>0.02%</td></tr>
+<tr><td>unclaimed funds database</td><td>2</td><td>0.01%</td></tr>
+<tr><td>--- SMALL BUSINESS RESEARCH AND POLICY ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>14</td><td>0.05%</td></tr>
+<tr><td>sme direct</td><td>2</td><td>0.01%</td></tr>
+<tr><td>--- SMALL BUSINESS, TOURISM AND MARKETPLACE ... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>wes ecosystem fund</td><td>17</td><td>0.06%</td></tr>
+<tr><td>women entrepreneurship fund</td><td>412</td><td>1.48%</td></tr>
+<tr><td>women entrepreneurship knowledge hub</td><td>4</td><td>0.01%</td></tr>
+<tr><td>--- SPECTRUM MANAGEMENT AND TELECOMMUNICATIO... ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>--spectrum management and telecommunicat...</td><td>5</td><td>0.02%</td></tr>
+<tr><td>amateur radio</td><td>82</td><td>0.29%</td></tr>
+<tr><td>atlantic</td><td>104</td><td>0.37%</td></tr>
+<tr><td>broadband canada</td><td>3</td><td>0.01%</td></tr>
+<tr><td>cancode</td><td>98</td><td>0.35%</td></tr>
+<tr><td>cell phone complaint/comment</td><td>2</td><td>0.01%</td></tr>
+<tr><td>certification and engineering bureau</td><td>156</td><td>0.56%</td></tr>
+<tr><td>computers for schools - tier 1</td><td>130</td><td>0.47%</td></tr>
+<tr><td>computers for schools - tier 2</td><td>9</td><td>0.03%</td></tr>
+<tr><td>connect to innovate</td><td>96</td><td>0.35%</td></tr>
+<tr><td>dc 150</td><td>3</td><td>0.01%</td></tr>
+<tr><td>emergency telecom</td><td>6</td><td>0.02%</td></tr>
+<tr><td>information and communications technolog...</td><td>5</td><td>0.02%</td></tr>
+<tr><td>ontario</td><td>512</td><td>1.84%</td></tr>
+<tr><td>other</td><td>234</td><td>0.84%</td></tr>
+<tr><td>pacific</td><td>194</td><td>0.70%</td></tr>
+<tr><td>prairie & northern</td><td>289</td><td>1.04%</td></tr>
+<tr><td>prime minister's awards</td><td>4</td><td>0.01%</td></tr>
+<tr><td>quebec</td><td>443</td><td>1.59%</td></tr>
+<tr><td>radio operator certificate service centr...</td><td>154</td><td>0.55%</td></tr>
+<tr><td>spectrum auctions</td><td>8</td><td>0.03%</td></tr>
+<tr><td>wireless policy</td><td>5</td><td>0.02%</td></tr>
+<tr><td>--- STRATEGIC INNOVATION FUND ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>mailing list</td><td>1</td><td>0.00%</td></tr>
+<tr><td>not applicable</td><td>226</td><td>0.81%</td></tr>
+<tr><td>stream 1</td><td>103</td><td>0.37%</td></tr>
+<tr><td>stream 2</td><td>84</td><td>0.30%</td></tr>
+<tr><td>stream 3</td><td>47</td><td>0.17%</td></tr>
+<tr><td>stream 4</td><td>131</td><td>0.47%</td></tr>
+<tr><td>stream 4 (telethon)</td><td>3</td><td>0.01%</td></tr>
+<tr><td>stream 5</td><td>58</td><td>0.21%</td></tr>
+<tr><td>--- TECHNOLOGY ROADMAPS ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>1</td><td>0.00%</td></tr>
+<tr><td>--- THE DEPARTMENT ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>85</td><td>0.31%</td></tr>
+<tr><td>telephone directory</td><td>209</td><td>0.75%</td></tr>
+<tr><td>--- YOUTH INITIATIVES ---</td><td>0</td><td>0.00%</td></tr>
+<tr><td>other</td><td>2</td><td>0.01%</td></tr>
+<tr><td><b>Total - Program Area</b></td><td><b>27801</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Response Rate</b></td><td></td><td></td></tr>
+<tr><td>< 1 min</td><td>374</td><td>1.46%</td></tr>
+<tr><td>< 1 hr</td><td>19026</td><td>74.34%</td></tr>
+<tr><td>1 - 24 hrs</td><td>4387</td><td>17.14%</td></tr>
+<tr><td>24 - 48  hrs</td><td>755</td><td>2.95%</td></tr>
+<tr><td>48 - 120  hrs</td><td>445</td><td>1.74%</td></tr>
+<tr><td>> 120  hrs</td><td>604</td><td>2.36%</td></tr>
+<tr><td>n/a</td><td>2</td><td>0.01%</td></tr>
+<tr><td><b>Total - Response Rate</b></td><td><b>25593</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Date Received</b></td><td></td><td></td></tr>
+<tr><td>01/01/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>01/02/2019</td><td>203</td><td>0.79%</td></tr>
+<tr><td>01/03/2019</td><td>245</td><td>0.96%</td></tr>
+<tr><td>01/04/2019</td><td>188</td><td>0.73%</td></tr>
+<tr><td>01/05/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>01/06/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>01/07/2019</td><td>260</td><td>1.02%</td></tr>
+<tr><td>01/08/2019</td><td>239</td><td>0.93%</td></tr>
+<tr><td>01/09/2019</td><td>232</td><td>0.91%</td></tr>
+<tr><td>01/10/2019</td><td>190</td><td>0.74%</td></tr>
+<tr><td>01/11/2019</td><td>155</td><td>0.61%</td></tr>
+<tr><td>01/12/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>01/13/2019</td><td>6</td><td>0.02%</td></tr>
+<tr><td>01/14/2019</td><td>210</td><td>0.82%</td></tr>
+<tr><td>01/15/2019</td><td>202</td><td>0.79%</td></tr>
+<tr><td>01/16/2019</td><td>191</td><td>0.75%</td></tr>
+<tr><td>01/17/2019</td><td>165</td><td>0.64%</td></tr>
+<tr><td>01/18/2019</td><td>166</td><td>0.65%</td></tr>
+<tr><td>01/19/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>01/20/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>01/21/2019</td><td>157</td><td>0.61%</td></tr>
+<tr><td>01/22/2019</td><td>155</td><td>0.61%</td></tr>
+<tr><td>01/23/2019</td><td>153</td><td>0.60%</td></tr>
+<tr><td>01/24/2019</td><td>222</td><td>0.87%</td></tr>
+<tr><td>01/25/2019</td><td>180</td><td>0.70%</td></tr>
+<tr><td>01/26/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>01/27/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>01/28/2019</td><td>170</td><td>0.66%</td></tr>
+<tr><td>01/29/2019</td><td>157</td><td>0.61%</td></tr>
+<tr><td>01/30/2019</td><td>156</td><td>0.61%</td></tr>
+<tr><td>01/31/2019</td><td>151</td><td>0.59%</td></tr>
+<tr><td>02/01/2019</td><td>173</td><td>0.68%</td></tr>
+<tr><td>02/02/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>02/03/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>02/04/2019</td><td>197</td><td>0.77%</td></tr>
+<tr><td>02/05/2019</td><td>242</td><td>0.95%</td></tr>
+<tr><td>02/06/2019</td><td>237</td><td>0.93%</td></tr>
+<tr><td>02/07/2019</td><td>193</td><td>0.75%</td></tr>
+<tr><td>02/08/2019</td><td>155</td><td>0.61%</td></tr>
+<tr><td>02/09/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>02/10/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>02/11/2019</td><td>200</td><td>0.78%</td></tr>
+<tr><td>02/12/2019</td><td>193</td><td>0.75%</td></tr>
+<tr><td>02/13/2019</td><td>158</td><td>0.62%</td></tr>
+<tr><td>02/14/2019</td><td>164</td><td>0.64%</td></tr>
+<tr><td>02/15/2019</td><td>147</td><td>0.57%</td></tr>
+<tr><td>02/16/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>02/17/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>02/18/2019</td><td>133</td><td>0.52%</td></tr>
+<tr><td>02/19/2019</td><td>202</td><td>0.79%</td></tr>
+<tr><td>02/20/2019</td><td>194</td><td>0.76%</td></tr>
+<tr><td>02/21/2019</td><td>187</td><td>0.73%</td></tr>
+<tr><td>02/22/2019</td><td>186</td><td>0.73%</td></tr>
+<tr><td>02/23/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>02/24/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>02/25/2019</td><td>223</td><td>0.87%</td></tr>
+<tr><td>02/26/2019</td><td>205</td><td>0.80%</td></tr>
+<tr><td>02/27/2019</td><td>251</td><td>0.98%</td></tr>
+<tr><td>02/28/2019</td><td>321</td><td>1.25%</td></tr>
+<tr><td>03/01/2019</td><td>280</td><td>1.09%</td></tr>
+<tr><td>03/02/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>03/03/2019</td><td>6</td><td>0.02%</td></tr>
+<tr><td>03/04/2019</td><td>363</td><td>1.42%</td></tr>
+<tr><td>03/05/2019</td><td>315</td><td>1.23%</td></tr>
+<tr><td>03/06/2019</td><td>277</td><td>1.08%</td></tr>
+<tr><td>03/07/2019</td><td>157</td><td>0.61%</td></tr>
+<tr><td>03/08/2019</td><td>179</td><td>0.70%</td></tr>
+<tr><td>03/09/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>03/10/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>03/11/2019</td><td>219</td><td>0.86%</td></tr>
+<tr><td>03/12/2019</td><td>185</td><td>0.72%</td></tr>
+<tr><td>03/13/2019</td><td>198</td><td>0.77%</td></tr>
+<tr><td>03/14/2019</td><td>155</td><td>0.61%</td></tr>
+<tr><td>03/15/2019</td><td>169</td><td>0.66%</td></tr>
+<tr><td>03/16/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>03/17/2019</td><td>6</td><td>0.02%</td></tr>
+<tr><td>03/18/2019</td><td>206</td><td>0.80%</td></tr>
+<tr><td>03/19/2019</td><td>175</td><td>0.68%</td></tr>
+<tr><td>03/20/2019</td><td>192</td><td>0.75%</td></tr>
+<tr><td>03/21/2019</td><td>162</td><td>0.63%</td></tr>
+<tr><td>03/22/2019</td><td>148</td><td>0.58%</td></tr>
+<tr><td>03/23/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>03/24/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>03/25/2019</td><td>196</td><td>0.77%</td></tr>
+<tr><td>03/26/2019</td><td>188</td><td>0.73%</td></tr>
+<tr><td>03/27/2019</td><td>160</td><td>0.63%</td></tr>
+<tr><td>03/28/2019</td><td>175</td><td>0.68%</td></tr>
+<tr><td>03/29/2019</td><td>122</td><td>0.48%</td></tr>
+<tr><td>03/30/2019</td><td>7</td><td>0.03%</td></tr>
+<tr><td>03/31/2019</td><td>9</td><td>0.04%</td></tr>
+<tr><td>04/01/2019</td><td>177</td><td>0.69%</td></tr>
+<tr><td>04/02/2019</td><td>163</td><td>0.64%</td></tr>
+<tr><td>04/03/2019</td><td>157</td><td>0.61%</td></tr>
+<tr><td>04/04/2019</td><td>174</td><td>0.68%</td></tr>
+<tr><td>04/05/2019</td><td>124</td><td>0.48%</td></tr>
+<tr><td>04/06/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>04/08/2019</td><td>141</td><td>0.55%</td></tr>
+<tr><td>04/09/2019</td><td>156</td><td>0.61%</td></tr>
+<tr><td>04/10/2019</td><td>123</td><td>0.48%</td></tr>
+<tr><td>04/11/2019</td><td>155</td><td>0.61%</td></tr>
+<tr><td>04/12/2019</td><td>109</td><td>0.43%</td></tr>
+<tr><td>04/13/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>04/14/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>04/15/2019</td><td>139</td><td>0.54%</td></tr>
+<tr><td>04/16/2019</td><td>137</td><td>0.54%</td></tr>
+<tr><td>04/17/2019</td><td>119</td><td>0.46%</td></tr>
+<tr><td>04/18/2019</td><td>118</td><td>0.46%</td></tr>
+<tr><td>04/19/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>04/21/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>04/22/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>04/23/2019</td><td>173</td><td>0.68%</td></tr>
+<tr><td>04/24/2019</td><td>118</td><td>0.46%</td></tr>
+<tr><td>04/25/2019</td><td>121</td><td>0.47%</td></tr>
+<tr><td>04/26/2019</td><td>135</td><td>0.53%</td></tr>
+<tr><td>04/27/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>04/28/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>04/29/2019</td><td>183</td><td>0.72%</td></tr>
+<tr><td>04/30/2019</td><td>131</td><td>0.51%</td></tr>
+<tr><td>05/01/2019</td><td>129</td><td>0.50%</td></tr>
+<tr><td>05/02/2019</td><td>125</td><td>0.49%</td></tr>
+<tr><td>05/03/2019</td><td>141</td><td>0.55%</td></tr>
+<tr><td>05/04/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>05/05/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>05/06/2019</td><td>165</td><td>0.64%</td></tr>
+<tr><td>05/07/2019</td><td>163</td><td>0.64%</td></tr>
+<tr><td>05/08/2019</td><td>126</td><td>0.49%</td></tr>
+<tr><td>05/09/2019</td><td>99</td><td>0.39%</td></tr>
+<tr><td>05/10/2019</td><td>117</td><td>0.46%</td></tr>
+<tr><td>05/11/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>05/13/2019</td><td>152</td><td>0.59%</td></tr>
+<tr><td>05/14/2019</td><td>126</td><td>0.49%</td></tr>
+<tr><td>05/15/2019</td><td>132</td><td>0.52%</td></tr>
+<tr><td>05/16/2019</td><td>127</td><td>0.50%</td></tr>
+<tr><td>05/17/2019</td><td>90</td><td>0.35%</td></tr>
+<tr><td>05/18/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>05/19/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>05/20/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>05/21/2019</td><td>148</td><td>0.58%</td></tr>
+<tr><td>05/22/2019</td><td>121</td><td>0.47%</td></tr>
+<tr><td>05/23/2019</td><td>107</td><td>0.42%</td></tr>
+<tr><td>05/24/2019</td><td>132</td><td>0.52%</td></tr>
+<tr><td>05/25/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>05/26/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>05/27/2019</td><td>138</td><td>0.54%</td></tr>
+<tr><td>05/28/2019</td><td>129</td><td>0.50%</td></tr>
+<tr><td>05/29/2019</td><td>125</td><td>0.49%</td></tr>
+<tr><td>05/30/2019</td><td>126</td><td>0.49%</td></tr>
+<tr><td>05/31/2019</td><td>105</td><td>0.41%</td></tr>
+<tr><td>06/02/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>06/03/2019</td><td>138</td><td>0.54%</td></tr>
+<tr><td>06/04/2019</td><td>142</td><td>0.55%</td></tr>
+<tr><td>06/05/2019</td><td>111</td><td>0.43%</td></tr>
+<tr><td>06/06/2019</td><td>116</td><td>0.45%</td></tr>
+<tr><td>06/07/2019</td><td>120</td><td>0.47%</td></tr>
+<tr><td>06/08/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>06/09/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>06/10/2019</td><td>148</td><td>0.58%</td></tr>
+<tr><td>06/11/2019</td><td>137</td><td>0.54%</td></tr>
+<tr><td>06/12/2019</td><td>128</td><td>0.50%</td></tr>
+<tr><td>06/13/2019</td><td>131</td><td>0.51%</td></tr>
+<tr><td>06/14/2019</td><td>120</td><td>0.47%</td></tr>
+<tr><td>06/15/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>06/16/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>06/17/2019</td><td>127</td><td>0.50%</td></tr>
+<tr><td>06/18/2019</td><td>124</td><td>0.48%</td></tr>
+<tr><td>06/19/2019</td><td>114</td><td>0.45%</td></tr>
+<tr><td>06/20/2019</td><td>113</td><td>0.44%</td></tr>
+<tr><td>06/21/2019</td><td>133</td><td>0.52%</td></tr>
+<tr><td>06/22/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>06/23/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>06/24/2019</td><td>102</td><td>0.40%</td></tr>
+<tr><td>06/25/2019</td><td>93</td><td>0.36%</td></tr>
+<tr><td>06/26/2019</td><td>124</td><td>0.48%</td></tr>
+<tr><td>06/27/2019</td><td>111</td><td>0.43%</td></tr>
+<tr><td>06/28/2019</td><td>118</td><td>0.46%</td></tr>
+<tr><td>06/29/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>06/30/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>07/01/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>07/02/2019</td><td>113</td><td>0.44%</td></tr>
+<tr><td>07/03/2019</td><td>131</td><td>0.51%</td></tr>
+<tr><td>07/04/2019</td><td>89</td><td>0.35%</td></tr>
+<tr><td>07/05/2019</td><td>109</td><td>0.43%</td></tr>
+<tr><td>07/06/2019</td><td>3</td><td>0.01%</td></tr>
+<tr><td>07/07/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>07/08/2019</td><td>138</td><td>0.54%</td></tr>
+<tr><td>07/09/2019</td><td>123</td><td>0.48%</td></tr>
+<tr><td>07/10/2019</td><td>128</td><td>0.50%</td></tr>
+<tr><td>07/11/2019</td><td>145</td><td>0.57%</td></tr>
+<tr><td>07/12/2019</td><td>104</td><td>0.41%</td></tr>
+<tr><td>07/13/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>07/14/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>07/15/2019</td><td>134</td><td>0.52%</td></tr>
+<tr><td>07/16/2019</td><td>129</td><td>0.50%</td></tr>
+<tr><td>07/17/2019</td><td>127</td><td>0.50%</td></tr>
+<tr><td>07/18/2019</td><td>100</td><td>0.39%</td></tr>
+<tr><td>07/19/2019</td><td>106</td><td>0.41%</td></tr>
+<tr><td>07/20/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>07/21/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>07/22/2019</td><td>130</td><td>0.51%</td></tr>
+<tr><td>07/23/2019</td><td>127</td><td>0.50%</td></tr>
+<tr><td>07/24/2019</td><td>127</td><td>0.50%</td></tr>
+<tr><td>07/25/2019</td><td>87</td><td>0.34%</td></tr>
+<tr><td>07/26/2019</td><td>89</td><td>0.35%</td></tr>
+<tr><td>07/27/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>07/28/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>07/29/2019</td><td>106</td><td>0.41%</td></tr>
+<tr><td>07/30/2019</td><td>110</td><td>0.43%</td></tr>
+<tr><td>07/31/2019</td><td>121</td><td>0.47%</td></tr>
+<tr><td>08/01/2019</td><td>109</td><td>0.43%</td></tr>
+<tr><td>08/02/2019</td><td>85</td><td>0.33%</td></tr>
+<tr><td>08/03/2019</td><td>4</td><td>0.02%</td></tr>
+<tr><td>08/04/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>08/05/2019</td><td>7</td><td>0.03%</td></tr>
+<tr><td>08/06/2019</td><td>146</td><td>0.57%</td></tr>
+<tr><td>08/07/2019</td><td>85</td><td>0.33%</td></tr>
+<tr><td>08/08/2019</td><td>101</td><td>0.39%</td></tr>
+<tr><td>08/09/2019</td><td>94</td><td>0.37%</td></tr>
+<tr><td>08/10/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>08/11/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>08/12/2019</td><td>121</td><td>0.47%</td></tr>
+<tr><td>08/13/2019</td><td>113</td><td>0.44%</td></tr>
+<tr><td>08/14/2019</td><td>117</td><td>0.46%</td></tr>
+<tr><td>08/15/2019</td><td>125</td><td>0.49%</td></tr>
+<tr><td>08/16/2019</td><td>86</td><td>0.34%</td></tr>
+<tr><td>08/17/2019</td><td>1</td><td>0.00%</td></tr>
+<tr><td>08/18/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td>08/19/2019</td><td>161</td><td>0.63%</td></tr>
+<tr><td>08/20/2019</td><td>91</td><td>0.36%</td></tr>
+<tr><td>08/21/2019</td><td>105</td><td>0.41%</td></tr>
+<tr><td>08/22/2019</td><td>106</td><td>0.41%</td></tr>
+<tr><td>08/23/2019</td><td>90</td><td>0.35%</td></tr>
+<tr><td>08/24/2019</td><td>6</td><td>0.02%</td></tr>
+<tr><td>08/25/2019</td><td>5</td><td>0.02%</td></tr>
+<tr><td>08/26/2019</td><td>142</td><td>0.55%</td></tr>
+<tr><td>08/27/2019</td><td>122</td><td>0.48%</td></tr>
+<tr><td>08/28/2019</td><td>116</td><td>0.45%</td></tr>
+<tr><td>08/29/2019</td><td>122</td><td>0.48%</td></tr>
+<tr><td>08/30/2019</td><td>92</td><td>0.36%</td></tr>
+<tr><td>08/31/2019</td><td>2</td><td>0.01%</td></tr>
+<tr><td><b>Total - Date Received</b></td><td><b>25593</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Client Group</b></td><td></td><td></td></tr>
+<tr><td>association</td><td>42</td><td>0.16%</td></tr>
+<tr><td>company</td><td>5425</td><td>21.18%</td></tr>
+<tr><td>consultant</td><td>17</td><td>0.07%</td></tr>
+<tr><td>consumer</td><td>497</td><td>1.94%</td></tr>
+<tr><td>economic development organization</td><td>9</td><td>0.04%</td></tr>
+<tr><td>educational institution</td><td>92</td><td>0.36%</td></tr>
+<tr><td>entrepreneur</td><td>796</td><td>3.11%</td></tr>
+<tr><td>federal government</td><td>289</td><td>1.13%</td></tr>
+<tr><td>financial institution</td><td>52</td><td>0.20%</td></tr>
+<tr><td>health institution</td><td>17</td><td>0.07%</td></tr>
+<tr><td>individual</td><td>14258</td><td>55.67%</td></tr>
+<tr><td>innovation science and economic developm...</td><td>192</td><td>0.75%</td></tr>
+<tr><td>manufacturer</td><td>3</td><td>0.01%</td></tr>
+<tr><td>media</td><td>11</td><td>0.04%</td></tr>
+<tr><td>media relations - broadcast</td><td>5</td><td>0.02%</td></tr>
+<tr><td>media relations - magazine</td><td>9</td><td>0.04%</td></tr>
+<tr><td>media relations - online</td><td>69</td><td>0.27%</td></tr>
+<tr><td>media relations - print</td><td>37</td><td>0.14%</td></tr>
+<tr><td>media relations - radio</td><td>2</td><td>0.01%</td></tr>
+<tr><td>media relations - trade publication</td><td>2</td><td>0.01%</td></tr>
+<tr><td>media relations - tv</td><td>5</td><td>0.02%</td></tr>
+<tr><td>not-for-profit corporations</td><td>325</td><td>1.27%</td></tr>
+<tr><td>other</td><td>63</td><td>0.25%</td></tr>
+<tr><td>other government</td><td>112</td><td>0.44%</td></tr>
+<tr><td>professional services</td><td>1509</td><td>5.89%</td></tr>
+<tr><td>provincial government</td><td>90</td><td>0.35%</td></tr>
+<tr><td>research institution</td><td>14</td><td>0.05%</td></tr>
+<tr><td>student</td><td>54</td><td>0.21%</td></tr>
+<tr><td>unknown</td><td>1616</td><td>6.31%</td></tr>
+<tr><td><b>Total - Client Group</b></td><td><b>25612</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Geographical Location - By Province / Canada</b></td><td></td><td></td></tr>
+<tr><td>alberta</td><td>1739</td><td>6.79%</td></tr>
+<tr><td>british columbia</td><td>1948</td><td>7.61%</td></tr>
+<tr><td>manitoba</td><td>590</td><td>2.31%</td></tr>
+<tr><td>n/a</td><td>2558</td><td>9.99%</td></tr>
+<tr><td>new brunswick</td><td>404</td><td>1.58%</td></tr>
+<tr><td>newfoundland</td><td>18</td><td>0.07%</td></tr>
+<tr><td>newfoundland and labrador</td><td>271</td><td>1.06%</td></tr>
+<tr><td>northwest territories</td><td>13</td><td>0.05%</td></tr>
+<tr><td>nova scotia</td><td>259</td><td>1.01%</td></tr>
+<tr><td>nunavut</td><td>10</td><td>0.04%</td></tr>
+<tr><td>ontario</td><td>8340</td><td>32.59%</td></tr>
+<tr><td>prince edward island</td><td>322</td><td>1.26%</td></tr>
+<tr><td>québec</td><td>5864</td><td>22.91%</td></tr>
+<tr><td>saskatchewan</td><td>561</td><td>2.19%</td></tr>
+<tr><td>yukon</td><td>8</td><td>0.03%</td></tr>
+<tr><td><b>Total - Geographical Location - By Province / Canada</b></td><td><b>22905</b></td><td><b>89.50%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Geographical Location - By By States / U.S.A</b></td><td></td><td></td></tr>
+<tr><td>arizona</td><td>1</td><td>0.00%</td></tr>
+<tr><td>california</td><td>2</td><td>0.01%</td></tr>
+<tr><td>illinois</td><td>1</td><td>0.00%</td></tr>
+<tr><td>indiana</td><td>1</td><td>0.00%</td></tr>
+<tr><td>massachussetts</td><td>1</td><td>0.00%</td></tr>
+<tr><td>minnesota</td><td>1</td><td>0.00%</td></tr>
+<tr><td>n/a</td><td>198</td><td>0.77%</td></tr>
+<tr><td>new york</td><td>2</td><td>0.01%</td></tr>
+<tr><td>north carolina</td><td>1</td><td>0.00%</td></tr>
+<tr><td>ohio</td><td>1</td><td>0.00%</td></tr>
+<tr><td>oregon</td><td>1</td><td>0.00%</td></tr>
+<tr><td>pennsylvania</td><td>2</td><td>0.01%</td></tr>
+<tr><td>washington</td><td>2</td><td>0.01%</td></tr>
+<tr><td><b>Total - Geographical Location - By By States / U.S.A</b></td><td><b>214</b></td><td><b>0.84%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Geographic Location - By Other Country</b></td><td></td><td></td></tr>
+<tr><td>afghanistan</td><td>3</td><td>0.01%</td></tr>
+<tr><td>algeria</td><td>16</td><td>0.06%</td></tr>
+<tr><td>angola</td><td>1</td><td>0.00%</td></tr>
+<tr><td>armenia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>australia</td><td>9</td><td>0.04%</td></tr>
+<tr><td>azerbaijan</td><td>1</td><td>0.00%</td></tr>
+<tr><td>bangladesh</td><td>8</td><td>0.03%</td></tr>
+<tr><td>barbados</td><td>1</td><td>0.00%</td></tr>
+<tr><td>benin</td><td>5</td><td>0.02%</td></tr>
+<tr><td>bolivia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>brazil</td><td>6</td><td>0.02%</td></tr>
+<tr><td>bulgaria</td><td>1</td><td>0.00%</td></tr>
+<tr><td>burkina faso</td><td>8</td><td>0.03%</td></tr>
+<tr><td>burundi</td><td>1</td><td>0.00%</td></tr>
+<tr><td>cameroon</td><td>10</td><td>0.04%</td></tr>
+<tr><td>china</td><td>2</td><td>0.01%</td></tr>
+<tr><td>china people's republic of</td><td>7</td><td>0.03%</td></tr>
+<tr><td>colombia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>congo</td><td>19</td><td>0.07%</td></tr>
+<tr><td>costa rica</td><td>1</td><td>0.00%</td></tr>
+<tr><td>cuba</td><td>3</td><td>0.01%</td></tr>
+<tr><td>cyprus</td><td>1</td><td>0.00%</td></tr>
+<tr><td>czech republic</td><td>1</td><td>0.00%</td></tr>
+<tr><td>denmark</td><td>1</td><td>0.00%</td></tr>
+<tr><td>east africa</td><td>1</td><td>0.00%</td></tr>
+<tr><td>ecuador</td><td>1</td><td>0.00%</td></tr>
+<tr><td>egypt</td><td>6</td><td>0.02%</td></tr>
+<tr><td>ethiopia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>finland</td><td>2</td><td>0.01%</td></tr>
+<tr><td>france</td><td>17</td><td>0.07%</td></tr>
+<tr><td>georgia</td><td>3</td><td>0.01%</td></tr>
+<tr><td>germany</td><td>7</td><td>0.03%</td></tr>
+<tr><td>ghana</td><td>2</td><td>0.01%</td></tr>
+<tr><td>guinea</td><td>3</td><td>0.01%</td></tr>
+<tr><td>guyana</td><td>1</td><td>0.00%</td></tr>
+<tr><td>haiti</td><td>2</td><td>0.01%</td></tr>
+<tr><td>honduras</td><td>2</td><td>0.01%</td></tr>
+<tr><td>hong kong</td><td>2</td><td>0.01%</td></tr>
+<tr><td>hungary</td><td>3</td><td>0.01%</td></tr>
+<tr><td>iceland</td><td>1</td><td>0.00%</td></tr>
+<tr><td>india</td><td>17</td><td>0.07%</td></tr>
+<tr><td>iran</td><td>5</td><td>0.02%</td></tr>
+<tr><td>iraq</td><td>3</td><td>0.01%</td></tr>
+<tr><td>ireland</td><td>3</td><td>0.01%</td></tr>
+<tr><td>israel</td><td>1</td><td>0.00%</td></tr>
+<tr><td>italy</td><td>2</td><td>0.01%</td></tr>
+<tr><td>ivory coast</td><td>17</td><td>0.07%</td></tr>
+<tr><td>jamaica</td><td>1</td><td>0.00%</td></tr>
+<tr><td>japan</td><td>2</td><td>0.01%</td></tr>
+<tr><td>jordan</td><td>1</td><td>0.00%</td></tr>
+<tr><td>kenya</td><td>2</td><td>0.01%</td></tr>
+<tr><td>korea south</td><td>1</td><td>0.00%</td></tr>
+<tr><td>kuwait</td><td>1</td><td>0.00%</td></tr>
+<tr><td>latvia</td><td>3</td><td>0.01%</td></tr>
+<tr><td>lebanon</td><td>3</td><td>0.01%</td></tr>
+<tr><td>liberia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>lithuania</td><td>1</td><td>0.00%</td></tr>
+<tr><td>luxembourg</td><td>2</td><td>0.01%</td></tr>
+<tr><td>madagascar</td><td>1</td><td>0.00%</td></tr>
+<tr><td>malaysia</td><td>2</td><td>0.01%</td></tr>
+<tr><td>mali</td><td>1</td><td>0.00%</td></tr>
+<tr><td>mexico</td><td>10</td><td>0.04%</td></tr>
+<tr><td>monaco </td><td>2</td><td>0.01%</td></tr>
+<tr><td>morocco</td><td>5</td><td>0.02%</td></tr>
+<tr><td>mozambique</td><td>1</td><td>0.00%</td></tr>
+<tr><td>netherlands</td><td>3</td><td>0.01%</td></tr>
+<tr><td>new zealand</td><td>2</td><td>0.01%</td></tr>
+<tr><td>nigeria</td><td>5</td><td>0.02%</td></tr>
+<tr><td>norway</td><td>4</td><td>0.02%</td></tr>
+<tr><td>pakistan</td><td>13</td><td>0.05%</td></tr>
+<tr><td>philippines</td><td>3</td><td>0.01%</td></tr>
+<tr><td>poland</td><td>8</td><td>0.03%</td></tr>
+<tr><td>portugal</td><td>2</td><td>0.01%</td></tr>
+<tr><td>russia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>saudi arabia</td><td>2</td><td>0.01%</td></tr>
+<tr><td>senegal</td><td>10</td><td>0.04%</td></tr>
+<tr><td>singapore</td><td>1</td><td>0.00%</td></tr>
+<tr><td>solomon islands</td><td>1</td><td>0.00%</td></tr>
+<tr><td>somalia</td><td>1</td><td>0.00%</td></tr>
+<tr><td>south africa</td><td>3</td><td>0.01%</td></tr>
+<tr><td>sri lanka</td><td>1</td><td>0.00%</td></tr>
+<tr><td>sweden</td><td>1</td><td>0.00%</td></tr>
+<tr><td>syria</td><td>3</td><td>0.01%</td></tr>
+<tr><td>tanzania united republique</td><td>1</td><td>0.00%</td></tr>
+<tr><td>togo</td><td>2</td><td>0.01%</td></tr>
+<tr><td>tunisia</td><td>9</td><td>0.04%</td></tr>
+<tr><td>turkey</td><td>4</td><td>0.02%</td></tr>
+<tr><td>uganda</td><td>1</td><td>0.00%</td></tr>
+<tr><td>ukraine</td><td>1</td><td>0.00%</td></tr>
+<tr><td>united arab emirates</td><td>7</td><td>0.03%</td></tr>
+<tr><td>united kingdom</td><td>14</td><td>0.05%</td></tr>
+<tr><td>unknown</td><td>2117</td><td>8.27%</td></tr>
+<tr><td>vietnam</td><td>1</td><td>0.00%</td></tr>
+<tr><td>wales</td><td>1</td><td>0.00%</td></tr>
+<tr><td>zimbabwe</td><td>2</td><td>0.01%</td></tr>
+<tr><td><b>Total - Geographic Location - By Other Country</b></td><td><b>2474</b></td><td><b>9.67%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Total - Geographic Location</b></td><td><b>25593</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td><b>Language</b></td><td></td><td></td></tr>
+<tr><td>english</td><td>19690</td><td>76.94%</td></tr>
+<tr><td>french</td><td>5202</td><td>20.33%</td></tr>
+<tr><td>other</td><td>11</td><td>0.04%</td></tr>
+<tr><td>unknown</td><td>690</td><td>2.70%</td></tr>
+<tr><td><b>Total - Language</b></td><td><b>25593</b></td><td><b>100.00%</b></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</table>

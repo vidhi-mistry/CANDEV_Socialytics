@@ -11,15 +11,21 @@ Socialytics provides the tools in the form of easy to interpret interactive grap
 
 It lays out no of followers in each platform, which platform has the most engaging followers, most popular channels on each platform, i.e. spot what trends people want to know more about – What people are interested in : Science , Innovation, Bussiness or Travel ?
 
+ ![Image description](https://github.com/vidhi-mistry/CANDEV_Socialytics/blob/master/screenshots/social_platforms.jpg)
 
  
 It also plots out top N posts and tweets. Such visualization can unreveal which campaigns were most successful and why and more such campaigns should be carried out in future. As in the visualization, it appears that for Facebook LIVE posts gained more likes. So, perhaps people are more interested in seeing LIVE streaming of events rather than a single highlights video uploaded after the event.
  
+ ![Image description](https://github.com/vidhi-mistry/CANDEV_Socialytics/blob/master/screenshots/top_n.jpg)
 
 Historical data can offer valuable insights as well. They offer overview of the health and performance of the social media channels and if present some interesting spikes which can be further inverstigated to unreveal hidden pattern. Promotion and return on investment can be viewed with such a timeline too to measure the effectiveness of the marketing strategy.
   
+ ![Image description](https://github.com/vidhi-mistry/CANDEV_Socialytics/blob/master/screenshots/timeline-1.jpg)
+ ![Image description](https://github.com/vidhi-mistry/CANDEV_Socialytics/blob/master/screenshots/timeline-2.jpg)
+ 
 Maybe, sometimes just delaying a post till weekend can lead to increased number of likes and engagement ratio rather than investing on promotions.
  
+![Image description](https://github.com/vidhi-mistry/CANDEV_Socialytics/blob/master/screenshots/timeline-weekday.jpg)
 
 These analytics described here are just like tip of the iceberg, social media analytics can provide much deeper insights and carry the power to instigate robust marketing strategies. With Instagram users spending one hour daily on average on instagram and more than 70% twitter users relying on Twitter for news, social analytics should be exploited by each and every company in 2020 to increase brand awareness and targeted marketing. 
  
